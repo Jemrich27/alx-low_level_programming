@@ -1,1 +1,1 @@
-cloned all my repositories but still stack!
+tasks on codew are a bit scary when it comes to getting answers.
