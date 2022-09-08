@@ -1,1 +1,1 @@
-Compiling your codesakes sense all the time
+Generating the assembly codes ofna C code
