@@ -1,1 +1,1 @@
-Generating the assembly codes ofna C code
+Great intel about sudo commamds
