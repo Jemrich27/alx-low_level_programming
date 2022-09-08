@@ -1,1 +1,1 @@
-tasks on codew are a bit scary when it comes to getting answers.
+codes are like thousands and ten thousands of sand in the oceans
