@@ -1,1 +1,1 @@
-tailcodes are more of pseudocodes
+Grasping chance to learn to code is cool.
