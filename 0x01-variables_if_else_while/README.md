@@ -1,1 +1,1 @@
-Variables and constants are ideal steps
+Constants are not changing in any way!
