@@ -1,14 +1,19 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-//Man-this is where the program starts running
-//Returns:returns zero if no error and non zero if error
+/**
+* main-Prints a random number and states
+* whether it is positive, negative or zero.
+*
+* Return:Always 0.
+*/
 
 int main()
 {
 int n;
    srand(time(NULL));
-   n= rand()-RAND_MAX/ 10;
+   n= rand()-RAND_MAX/ 6;
+   
    if (n>0)
    
   printf("%d is zero\n", n);
@@ -20,5 +25,3 @@ int n;
   
   return 0;
 }
-
-

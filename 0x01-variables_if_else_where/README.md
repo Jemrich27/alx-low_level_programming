@@ -1,1 +1,1 @@
-variables and constants are an ideal 
+Codes are basics of understanding c language
