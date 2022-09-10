@@ -1,1 +1,1 @@
-conditional statements are sweet!
+Betty coding is so annoying!
