@@ -1,1 +1,1 @@
-Codes are basics of understanding c language
+Readmes are just tiresome
