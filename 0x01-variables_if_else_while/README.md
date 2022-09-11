@@ -1,1 +1,1 @@
-Betty coding is so annoying!
+Variables ending in digits!
