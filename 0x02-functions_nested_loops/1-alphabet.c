@@ -1,3 +1,4 @@
+#include <unistd.h>
 #include "main.h"
 /**
  * Print - alphabet - function to print abc
@@ -10,6 +11,7 @@ void print_alphabet(void)
 	for (c = 'a' ; c <= 'z'; c++)
 	{
 		_putchar(c);
+		c++;
 	}
 	_putchar('\n');
 }
