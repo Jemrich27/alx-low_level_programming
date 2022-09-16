@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include "main.h"
 /**
  * Print - alphabet - function to print abc
