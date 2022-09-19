@@ -1,14 +1,17 @@
 #include "main.h"
-
 /**
- * main - check code
+ * print_numbers - Function that prints numbers in a string
  *
- * Return: Always 0
- *
+ * Return: Function rturns 0 on success
  */
-int main(void)
+void print_numbers(void)
 {
-	print_numbers();
+	int i;
 
-	return (0);
+	for (i = 0; i <= 9; i++)
+	{
+		_putchar(i + '0');
+	}
+	_putchar('\n');
+
 }
